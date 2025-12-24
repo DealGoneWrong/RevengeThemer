@@ -1,12 +1,2 @@
-{
-  "name": "Ultimate Themer",
-  "description": "Personnalise les couleurs de Discord",
-  "authors": [
-    {
-      "name": "DealGoneWrong",
-      "id": "1114580398031110195"
-    }
-  ],
-  "main": "https://raw.githubusercontent.com/DealGoneWrong/RevengeThemer/main/index.js",
-  "version": "1.0.0"
-}
+// MOVED to UltimateThemer/manifest.json
+// original blob: 83bfb01ab0f7cddf150c0479460b89c4b9ce77db
