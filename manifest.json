@@ -1,0 +1,12 @@
+{
+  "name": "Ultimate Themer",
+  "description": "Personnalise les couleurs de Discord",
+  "authors": [
+    {
+      "name": "DealGoneWrong",
+      "id": "1114580398031110195"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0"
+}
