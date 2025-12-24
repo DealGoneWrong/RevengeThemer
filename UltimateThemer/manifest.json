@@ -1,12 +1,8 @@
 {
   "name": "Ultimate Themer",
-  "description": "Personnalise les couleurs de Discord",
-  "authors": [
-    {
-      "name": "DealGoneWrong",
-      "id": "1114580398031110195"
-    }
-  ],
-  "main": "UltimateThemer/index.js",
-  "version": "1.0.0"
+  "description": "Système de couleurs",
+  "authors": [{"name": "DealGoneWrong", "id": "1114580398031110195"}],
+  "main": "data:text/javascript;base64,KCgpID0+IHsKICAgIGNvbnN0IHsgc3RvcmFnZSB9ID0gcmV2ZW5nZS5wbHVnaW5zOwogICAgY29uc3QgeyBSZWFjdCB9ID0gcmV2ZW5nZS5jb21tb247CiAgICBjb25zdCB7IGZpbmRCeVByb3BzIH0gPSByZXZlbmdlLm1ldHJvOwogICAgY29uc3QgeyBWaWV3LCBUZXh0IH0gPSBmaW5kQnlQcm9wcygiVmlldyIsICJUZXh0Iik7CiAgICByZXR1cm4gewogICAgICAgIG9uTG9hZDogKCkgPT4geyBjb25zb2xlLmxvZygiT0siKTsgfSwKICAgICAgICBzZXR0aW5nczogKCkgPT4gUmVhY3QuY3JlYXRlRWxlbWVudChWaWV3LCB7IHN0eWxlOiB7IHBhZGRpbmc6IDIwIH0gfSwgUmVhY3QuY3JlYXRlRWxlbWVudChUZXh0LCB7IHN0eWxlOiB7IGNvbG9yOiAicmVkIiB9IH0sICJDQSBXQUxIICEiKSkKICAgIH07Cn0pKCk7",
+  "version": "3.0.0"
 }
+
